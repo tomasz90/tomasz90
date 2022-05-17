@@ -11,6 +11,7 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 * ❤️ From 2020 in love with Kotlin
 * 💸Recently learned Solidity and made a few small, profitable projects
 * 🤖 Interested in Defi, MEV, decentralized world
+* 👯 Enthusiast of pair programming - sharing knowledge and learning from the others
 
 ### 🌍 Languages & Frameworks:
 ![](https://img.shields.io/badge/-Kotlin-E0E0E0?logo=kotlin&logoColor=8E24AA)
