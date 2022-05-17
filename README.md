@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-My name is Tomasz and I'm a Software Engineer who is passionate about building tech, learning new technologies, solving problems.
+My name is Tomasz and I'm a Software Engineer who is passionate about building tech, learning new technologies and solving problems.
 
 * 🧪 Started as a manual tester in 2014 
 * ⚙️ Continued this path as automation engineer (Java)
