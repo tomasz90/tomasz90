@@ -12,7 +12,7 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 * 💸Recently learned Solidity and made a few small, profitable projects
 * 🤖 Interested in Defi, MEV, decentralized world
 
-### 🌍 Languages & Frameworks
+### 🌍 Languages & Frameworks:
 ![](https://img.shields.io/badge/-Kotlin-E0E0E0?logo=kotlin&logoColor=8E24AA)
 ![](https://img.shields.io/badge/-Java-D81B60?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Groovy-6587A7?logo=apachegroovy&logoColor=white)
@@ -28,11 +28,11 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 ![](https://img.shields.io/badge/-Selenium-33CC00?logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/-Postman-D56D00?logo=Postman&logoColor=white)
 
-### 🏡 IDEs
+### 🏡 IDEs:
 ![](https://img.shields.io/badge/-Intellij-DD418E?logo=IntellijIdea&logoColor=white)
 ![](https://img.shields.io/badge/-VisualStudio-11508A?logo=VisualStudio&logoColor=white)
 
-### 🚧 Build tools
+### 🚧 Build tools:
 ![](https://img.shields.io/badge/-Gradle-063D32?logo=Gradle&logoColor=white)
 ![](https://img.shields.io/badge/-NPM-EEEEEE?logoColor=white&logo=npm)
 
