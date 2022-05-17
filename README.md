@@ -35,10 +35,12 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 ![](https://img.shields.io/badge/-Gradle-063D32?logo=Gradle&logoColor=white)
 ![](https://img.shields.io/badge/-NPM-EEEEEE?logoColor=white&logo=npm)
 
+<br />
+
  ## 📫How to reach me:
-![](https://img.shields.io/badge/-Gmail-EA9999?logoColor=CC0000&logo=Gmail&link=mailto:tomaszkacperkulig@gmail.com)
-![](https://img.shields.io/badge/-LinkedIn-EEEEEE?logoColor=0095DD&logo=linkedin&link=https://www.linkedin.com/in/tomasz-k-04b775158/)
-![](https://img.shields.io/badge/-Telegram-91E5DF?logoColor=0095DD&logo=telegram&link=https://www.t.me/tomek_k)
-![](https://img.shields.io/badge/-Discord-797EDA?logoColor=white&logo=discord&link=https://www.discordapp.com/users/Tomasz#4159)
+ <a href="mailto:tomaszkacperkulig@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA9999?logoColor=CC0000&logo=Gmail" /></a>
+ <a href="https://www.linkedin.com/in/tomasz-k-04b775158"><img src="https://img.shields.io/badge/-LinkedIn-EEEEEE?logoColor=0095DD&logo=linkedin" /></a>
+ <a href="https://www.t.me/tomek_k"><img src="https://img.shields.io/badge/-Telegram-91E5DF?logoColor=0095DD&logo=telegram" /></a>
+ <a href="https://www.discordapp.com/users/Tomasz#4159"><img src="https://img.shields.io/badge/-Discord-797EDA?logoColor=white&logo=discord" /></a>
 
 
