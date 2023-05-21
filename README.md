@@ -9,8 +9,7 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 * ⚙️ Continued this path as automation engineer (Java)
 * 🧑‍💻 But coding was seduced me so I jumped into dev postion in 2019
 * ❤️ From 2020 in love with Kotlin
-* 💸Recently learned Solidity and made a few small, profitable projects
-* 🤖 Interested in Defi, MEV, decentralized world
+* 💸 Recently learned Solidity and made a few small projects that were able to extract some value from chain
 * 👯 Enthusiast of pair programming - sharing knowledge and learning from the others
 
 ### 🌍 Languages & Frameworks:
