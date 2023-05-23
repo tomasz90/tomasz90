@@ -12,6 +12,10 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 * 💸 Recently learned Solidity and made a few small projects that were able to extract some value from chain
 * 👯 Enthusiast of pair programming - sharing knowledge and learning from the others
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasz90&layout=compact&card_width=700px&bg_color=0B132D&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🏗	Backend:
 ![](https://img.shields.io/badge/-Kotlin-E0E0E0?logo=kotlin&logoColor=8E24AA)
 ![](https://img.shields.io/badge/-Java-D81B60?logo=java&logoColor=white)
@@ -38,6 +42,7 @@ My name is Tomasz and I'm a Software Engineer who is passionate about building t
 ### 🚧 Build tools:
 ![](https://img.shields.io/badge/-Gradle-063D32?logo=Gradle&logoColor=white)
 ![](https://img.shields.io/badge/-NPM-EEEEEE?logoColor=white&logo=npm)
+
 
 <br />
 
